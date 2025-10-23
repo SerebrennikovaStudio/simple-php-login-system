@@ -17,6 +17,13 @@ _Freelance Web Developer | PHP • MySQL • HTML • CSS_
   <sub>Freelance Web Developer | PHP • MySQL • HTML • CSS</sub>
 </p>
 
+<p align="center">
+  <a href="https://www.fiverr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="View on Fiverr">
+  </a>
+</p>
+
+
 
 
 # Simple PHP Login System
