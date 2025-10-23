@@ -1,7 +1,13 @@
 <p align="center">
-  <img src="./SerebrennikovaStudio_logo.png#gh-light-mode-only" alt="Serebrennikova Studio Logo" width="200">
-  <img src="./SerebrennikovaStudio_logo_dark.png#gh-dark-mode-only" alt="Serebrennikova Studio Logo Dark" width="200">
+
+![Light Logo](./SerebrennikovaStudio_logo.png#gh-light-mode-only)
+![Dark Logo](./SerebrennikovaStudio_logo_dark.png#gh-dark-mode-only)
+
+**Created by Serebrennikova Studio**  
+_Freelance Web Developer | PHP • MySQL • HTML • CSS_
+
 </p>
+
 
 <p align="center">
   <b>Created by Serebrennikova Studio</b><br>
