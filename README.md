@@ -8,7 +8,6 @@ _Freelance Web Developer | PHP • MySQL • HTML • CSS_
 
 </p>
 
-
 <p align="center">
   <b>Created by Serebrennikova Studio</b><br>
   <sub>Freelance Web Developer | PHP • MySQL • HTML • CSS</sub>
