@@ -3,6 +3,12 @@
   <img src="./SerebrennikovaStudio_logo_dark.png#gh-dark-mode-only" alt="Serebrennikova Studio Logo Dark" width="200">
 </p>
 
+<p align="center">
+  <b>Created by Serebrennikova Studio</b><br>
+  <sub>Freelance Web Developer | PHP • MySQL • HTML • CSS</sub>
+</p>
+
+
 
 # Simple PHP Login System
 
