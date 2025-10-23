@@ -28,3 +28,10 @@ A lightweight and secure PHP login and registration app built with MySQL and HTM
 
 ## Preview
 ![Preview](preview.png)
+
+---
+
+<p align="center">
+  <sub>© 2025 Serebrennikova Studio | Freelance Web Development</sub>
+</p>
+
