@@ -43,3 +43,5 @@ It includes user registration, login, session management, and logout features â€
 3. Import the provided SQL file (if available) or create a `users` table manually  
 4. Update your DB connection details in `db.php`  
 5. Run the app:  
+
+
