@@ -7,31 +7,39 @@
 
 A lightweight and secure PHP login and registration app built with MySQL and HTML/CSS.
 
+---
 
-# simple-php-login-system
-A simple PHP login and registration system using MySQL and HTML/CSS.
-# Simple PHP Login System
+## 🚀 Overview
+This project provides a **simple and functional authentication system** using core PHP and MySQL.  
+It includes user registration, login, session management, and logout features — perfect for beginners and small web applications.
 
-A lightweight and secure PHP login and registration app built with MySQL and HTML/CSS.
+---
 
-## Features
+## 🔑 Features
 ✅ User registration with password hashing  
 ✅ Login with session management  
-✅ Logout function  
-✅ Clean responsive design  
+✅ Logout functionality  
+✅ Clean, responsive design (HTML + CSS)  
+✅ Lightweight code — easy to integrate into existing projects  
 
-## Technologies
-- PHP
-- MySQL
-- HTML
-- CSS
+---
 
-## Preview
+## 🧠 Technologies
+- PHP  
+- MySQL  
+- HTML  
+- CSS  
+
+---
+
+## 🖼️ Preview
 ![Preview](preview.png)
 
 ---
 
-<p align="center">
-  <sub>© 2025 Serebrennikova Studio | Freelance Web Development</sub>
-</p>
-
+## ⚙️ Installation
+1. Copy the project to your local XAMPP `htdocs` folder  
+2. Create a MySQL database named `login_system`  
+3. Import the provided SQL file (if available) or create a `users` table manually  
+4. Update your DB connection details in `db.php`  
+5. Run the app:  
